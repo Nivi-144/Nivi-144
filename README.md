@@ -26,14 +26,14 @@ My interest lies in **machine learning**, **IoT & embedded systems**, and unders
 
 | Category | Technologies |
 |---|---|
-| **Languages** | Java, Python, SQL, C, JavaScript |
+| **Languages** | Python, Java, C, SQL, JavaScript |
 | **Frontend** | HTML, CSS, React.js |
 | **Backend** | Node.js, Express.js, REST APIs, JWT Authentication |
 | **Databases** | PostgreSQL (SQL), MongoDB |
-| **ML** | Scikit-Learn, TensorFlow, NumPy, Pandas |
-| **IoT & Embedded** | Arduino Uno, Raspberry Pi, Sensor Integration |
+| **AI / ML** | Machine Learning, Deep Learning, CNN, TensorFlow, Scikit-learn, NumPy, Pandas |
+| **IoT & Embedded** | Arduino Uno, Raspberry Pi, Sensor Integration, Real-Time Data Processing |
 | **Core CS** | DSA, OOP, DBMS, OS, CN, SDLC |
-| **Tools** | Git, GitHub, VS Code, Jupyter Notebook, Postman, Vercel |
+| **Tools** | Git, GitHub, VS Code, Google Colab, Jupyter Notebook, Postman, Vercel |
 
 ---
 
@@ -46,6 +46,15 @@ My interest lies in **machine learning**, **IoT & embedded systems**, and unders
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
   <img src="https://img.shields.io/badge/JAVASCRIPT-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/REACT-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/NODE.JS-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/EXPRESS.JS-404D59?style=for-the-badge&logo=express&logoColor=white" />
+  <img src="https://img.shields.io/badge/MONGODB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
+  <img src="https://img.shields.io/badge/POSTGRESQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/NUMPY-013243?style=for-the-badge&logo=numpy&logoColor=white" />
+  <img src="https://img.shields.io/badge/PANDAS-150458?style=for-the-badge&logo=pandas&logoColor=white" />
+  <img src="https://img.shields.io/badge/POSTMAN-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
+  <img src="https://img.shields.io/badge/VERCEL-000000?style=for-the-badge&logo=vercel&logoColor=white" />
   <img src="https://img.shields.io/badge/TENSORFLOW-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
   <img src="https://img.shields.io/badge/SCIKIT--LEARN-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white" />
   <img src="https://img.shields.io/badge/ARDUINO-00979D?style=for-the-badge&logo=arduino&logoColor=white" />
