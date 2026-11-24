@@ -26,12 +26,15 @@ My interest lies in **machine learning**, **IoT & embedded systems**, and unders
 
 | Category | Technologies |
 |---|---|
-| **Languages** | Python, Java, C |
-| **AI / ML** | Machine Learning, Deep Learning, CNN, TensorFlow, Scikit-learn |
-| **IoT & Embedded** | Arduino Uno, Raspberry Pi, Sensor Integration, Real-Time Data Processing |
-| **Web** | HTML, CSS, JavaScript |
-| **Core CS** | DSA, OOP, DBMS, OS, CN |
-| **Tools** | Git, GitHub, VS Code, Google Colab, Jupyter Notebook |
+| **Languages** | Java, Python, SQL, C, JavaScript |
+| **Frontend** | HTML, CSS, React.js |
+| **Backend** | Node.js, Express.js, REST APIs, JWT Authentication |
+| **Databases** | PostgreSQL (SQL), MongoDB |
+| **ML** | Scikit-Learn, TensorFlow, NumPy, Pandas |
+| **IoT & Embedded** | Arduino Uno, Raspberry Pi, Sensor Integration |
+| **Core CS** | DSA, OOP, DBMS, OS, CN, SDLC |
+| **Tools** | Git, GitHub, VS Code, Jupyter Notebook, Postman, Vercel |
+
 
 ---
 
