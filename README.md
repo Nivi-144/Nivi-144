@@ -92,7 +92,3 @@ Autonomous fire detection and suppression system using MQ-2, MQ-7, MQ-135, DHT11
 </a>
 
 ---
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Nivi-144&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
-</p>
