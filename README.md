@@ -24,6 +24,7 @@ My interest lies in **machine learning**, **IoT & embedded systems**, and unders
 
 ## 🛠️ Skills Overview
 
+
 | Category | Technologies |
 |---|---|
 | **Languages** | Java, Python, SQL, C, JavaScript |
