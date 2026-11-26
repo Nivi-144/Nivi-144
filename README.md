@@ -1,4 +1,3 @@
-
 <h1 align="center">Hi 👋, I am Nivedita Sen</h1>
 
 <h3 align="center">Computer Science Undergrad • AI/ML & IoT Developer • Tech Enthusiast</h3>
